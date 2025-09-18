@@ -39,6 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exp0nent&" alt="exp0nent" /></p>
 
-(https://github-readme-stats.vercel.app/api?username=exp0nent&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs&hide_title=false&cache_seconds=86400&hide_border=false&pat_1=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)
-
-
+[My GitHub stats](https://github-readme-stats.vercel.app/api?username=exp0nent&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs&hide_title=false&cache_seconds=86400&hide_border=false&pat_1=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)

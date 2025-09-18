@@ -1,3 +1,9 @@
+## Hi there 👋
+
+<!--
+**exp0nent/exp0nent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 name: Aatir Ali
 located_in: Delhi NCR, India
 current_job: Software Tester

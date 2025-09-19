@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aatirali18@gmail.com**
 
-- ⚡ Fun fact **I am noob**
+- ⚡ Fun fact **I am a small particle of this earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

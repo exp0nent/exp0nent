@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@aatirali7" target="blank"><img src="https://img.shields.io/twitter/follow/@aatirali7?logo=twitter&style=for-the-badge" alt="@aatirali7" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation system**
+- 🔭 I’m currently working on **Machine Learning Models**
 
 - 🌱 I’m currently learning **pytorch**
 

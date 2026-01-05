@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exp0nent" alt="exp0nent" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@aatirali7" target="blank"><img src="https://img.shields.io/twitter/follow/@aatirali7?logo=twitter&style=for-the-badge" alt="aatirali7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@aatirali7" target="blank"><img src="https://img.shields.io/twitter/follow/aatirali7?logo=twitter&style=for-the-badge" alt="aatirali7" /></a> </p>
 
 - 🔭 Currently working on Machine Learning and Data Science projects, focusing on building end-to-end ML pipelines and real-world use cases.
 

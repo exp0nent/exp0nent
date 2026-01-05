@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/@aatirali7" target="blank"><img src="https://img.shields.io/twitter/follow/@aatirali7?logo=twitter&style=for-the-badge" alt="@aatirali7" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Models**
+- 🔭 Currently working on Machine Learning and Data Science projects, focusing on building end-to-end ML pipelines and real-world use cases.**
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 Actively learning PyTorch, deep learning concepts, and improving model deployment skills & workflows.
 
-- 👯 I’m looking to collaborate on **Movie Recommendation system**
+- 👯 Open to collaborating on Machine Learning projects especially data-driven applications.
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 Looking to grow through open-source contributions and collaboration with the ML community.
 
-- 📫 How to reach me **aatirali18@gmail.com**
+- 📫 Reach me at: aatirali18@gmail.com
 
-- ⚡ Fun fact **I am a small particle of this earth**
+- ⚡ Fun fact: I believe consistent learning beats talent in the long run.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

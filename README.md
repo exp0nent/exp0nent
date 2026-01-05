@@ -17,7 +17,7 @@
 
 - 📫 Reach me at: aatirali18@gmail.com
 
-- ⚡ Fun fact: I believe consistent learning beats talent in the long run.
+- ⚡ Fun fact: Powered by curiosity, consistency, and a lot of trial-and-error.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

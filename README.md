@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aatir Ali</h1>
+<h1 align="center">Hi 👋, I'm Aatir Ali</h1>   
 <h3 align="center">A passionate Data Engineer from India</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exp0nent&label=Profile%20views&color=0e75b6&style=flat" alt="exp0nent" /> </p>
